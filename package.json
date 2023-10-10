@@ -1,13 +1,13 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Kolade F. Opeyemi's Porfolio",
   "source": "src/index.html",
-  "homepage": "https://adedayo92.github.io/codespaces-project-template-js",
+  "homepage": "https://adedayo924.github.io/codespaces-project-template-js",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://adedayo92.github.io/codespaces-project-template-js'",
+    "build-gh": "parcel build --public-url 'https://adedayo924.github.io/codespaces-project-template-js'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
